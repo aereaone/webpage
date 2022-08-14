@@ -10,6 +10,7 @@
     "@chakra-ui/modal": "^2.1.6",
     "@chakra-ui/react": "^2.2.8",
     "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
     "@sendgrid/mail": "^7.7.0",
     "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
