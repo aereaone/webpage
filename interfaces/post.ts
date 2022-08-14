@@ -5,7 +5,7 @@ type PostType = {
   title: string
   date: string
   tag: Array<string>
-  wordCount: string
+  wordCount: number
   coverImage: string
   author: Author
   excerpt: string

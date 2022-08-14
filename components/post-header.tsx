@@ -9,7 +9,7 @@ type Props = {
   coverImage: string
   date: string
   tag: Array<string>
-  wordCount: string
+  wordCount: number
   author: Author
 }
 
