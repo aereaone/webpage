@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Sergio's blog website</title>
+          <title>aerealab</title>
         </Head>
         <Container>
           <Intro />

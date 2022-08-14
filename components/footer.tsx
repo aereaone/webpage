@@ -27,7 +27,7 @@ const Footer = () => {
             </a> */}
             <BasicModal/>
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href={`instagram.com/aerea.lab`}
               className="mx-3 font-bold hover:underline"
             >
               Instagram
